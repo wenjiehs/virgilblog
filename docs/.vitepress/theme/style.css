@@ -1,0 +1,286 @@
+/**
+ * Tech-Style Custom Theme
+ * Futuristic design with gradient backgrounds and modern aesthetics
+ */
+
+/* ===== CSS Variables ===== */
+:root {
+  /* Tech color palette */
+  --vp-c-brand-1: #646cff;
+  --vp-c-brand-2: #747bff;
+  --vp-c-brand-3: #535bf2;
+  
+  /* Custom tech colors */
+  --tech-gradient-1: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --tech-gradient-2: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  --tech-gradient-3: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  
+  /* Glass effect */
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.2);
+  
+  /* Shadows */
+  --tech-shadow: 0 8px 32px rgba(31, 38, 135, 0.15);
+  --tech-shadow-lg: 0 12px 48px rgba(31, 38, 135, 0.25);
+}
+
+.dark {
+  --glass-bg: rgba(0, 0, 0, 0.3);
+  --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+/* ===== Global Styles ===== */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom font for code blocks */
+:root {
+  --vp-font-family-mono: 'JetBrains Mono', 'Fira Code', 'Monaco', 'Courier New', monospace;
+}
+
+/* ===== Layout Enhancements ===== */
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Background gradient animation */
+.VPDoc,
+.VPHome {
+  position: relative;
+}
+
+.VPDoc::before,
+.VPHome::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 
+    radial-gradient(circle at 20% 20%, rgba(120, 119, 198, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(255, 77, 109, 0.1) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ===== Navigation Bar ===== */
+.VPNav {
+  backdrop-filter: blur(12px);
+  background: var(--glass-bg);
+  border-bottom: 1px solid var(--glass-border);
+}
+
+/* ===== Home Hero ===== */
+.VPHero {
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+}
+
+.VPHero .name {
+  background: var(--tech-gradient-1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 800;
+}
+
+.VPHero .tagline {
+  font-size: 1.25rem;
+  line-height: 1.8;
+  opacity: 0.9;
+}
+
+.VPHero .actions {
+  gap: 1rem;
+}
+
+.VPButton {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 12px;
+}
+
+.VPButton.brand {
+  background: var(--tech-gradient-1);
+  border: none;
+  box-shadow: var(--tech-shadow);
+}
+
+.VPButton.brand:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--tech-shadow-lg);
+}
+
+.VPButton.alt {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+}
+
+.VPButton.alt:hover {
+  transform: translateY(-2px);
+  background: var(--glass-border);
+}
+
+/* ===== Features Section ===== */
+.VPFeatures {
+  padding: 48px 24px;
+}
+
+.VPFeature {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  padding: 28px;
+  transition: all 0.3s ease;
+}
+
+.VPFeature:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--tech-shadow-lg);
+  border-color: var(--vp-c-brand-1);
+}
+
+.VPFeature .icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* ===== Content Styles ===== */
+.vp-doc {
+  position: relative;
+  z-index: 1;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.vp-doc h1 {
+  background: var(--tech-gradient-1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Code blocks */
+.vp-doc div[class*='language-'] {
+  border-radius: 12px;
+  box-shadow: var(--tech-shadow);
+  margin: 1.5rem 0;
+}
+
+.vp-doc div[class*='language-']:hover {
+  box-shadow: var(--tech-shadow-lg);
+}
+
+/* Inline code */
+.vp-doc :not(pre) > code {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  padding: 0.25em 0.5em;
+  border-radius: 6px;
+  font-size: 0.9em;
+}
+
+/* Blockquotes */
+.vp-doc blockquote {
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+}
+
+/* Links */
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.vp-doc a:hover {
+  color: var(--vp-c-brand-2);
+  text-decoration: underline;
+}
+
+/* ===== Sidebar ===== */
+.VPSidebar {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  border-right: 1px solid var(--glass-border);
+}
+
+/* ===== Footer ===== */
+.VPFooter {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  border-top: 1px solid var(--glass-border);
+}
+
+/* ===== Responsive Design ===== */
+@media (max-width: 768px) {
+  .VPHero {
+    padding-top: 48px !important;
+    padding-bottom: 48px !important;
+  }
+  
+  .VPHero .name {
+    font-size: 2rem;
+  }
+  
+  .VPHero .tagline {
+    font-size: 1rem;
+  }
+  
+  .VPFeature {
+    padding: 20px;
+  }
+}
+
+/* ===== Animations ===== */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.VPHero,
+.VPFeatures,
+.vp-doc {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* ===== Scrollbar Styling ===== */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--vp-c-brand-1);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--vp-c-brand-2);
+}

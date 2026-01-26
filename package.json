@@ -1,0 +1,23 @@
+{
+  "name": "virgilblog",
+  "version": "1.0.0",
+  "description": "A tech-style personal blog powered by VitePress",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "blog",
+    "vitepress",
+    "vue",
+    "personal-website"
+  ],
+  "author": "Wenjie",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "vue": "^3.4.0"
+  }
+}
