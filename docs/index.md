@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "文杰的技术空间"
-  text: "云原生 · AI基础设施 · 产品创新"
-  tagline: "腾讯云容器服务(TKE)创始人 | 从0到1的产品奠基者 | AI超级个体"
+  text: "云原生 · AI基础设施 · 产品实践"
+  tagline: "TKE首个产品经理 | 云原生技术探索者 | 持续学习者"
   image:
     src: /avatar.png
     alt: 文杰
@@ -18,23 +18,23 @@ hero:
 
 features:
   - icon: 🚀
-    title: 云原生架构
-    details: 近10年容器服务实战经验，从TKE 0到1构建到亿级商业突破
+    title: 云原生实践
+    details: 近10年容器服务产品经验，深度参与TKE从0到1的构建过程
   - icon: 🤖
     title: AI基础设施
-    details: 引领TKE向AI转型，打造Agent沙箱、弹性推理等创新产品
+    details: 参与TKE向AI方向转型，探索Agent沙箱、弹性推理等技术
   - icon: 💰
-    title: 商业化创新
-    details: 主导TKE Housekeeper从月收入12万到年收入破亿的三级跳
+    title: 商业化探索
+    details: 深度参与TKE Housekeeper商业化实践，见证产品规模化增长
   - icon: 🧠
     title: 产品思维
-    details: 深度产品洞察与客户价值创造，助力客户降本增效50%+
-  - icon: 👥
-    title: 团队领导
-    details: 体系化团队建设与人才培养，打造高效可靠的ToB产品团队
+    details: 注重客户价值创造，追求产品体验与业务价值的平衡
+  - icon: 📚
+    title: 技术沉淀
+    details: 关注容器技术、调度算法、混部优化等云原生核心领域
   - icon: 🎯
-    title: 持续进化
-    details: 从不设限，永远站在团队最需要的地方，拥抱变化与创新
+    title: 持续成长
+    details: 保持学习心态，不断探索新技术，拥抱变化与创新
 ---
 
 <style>
