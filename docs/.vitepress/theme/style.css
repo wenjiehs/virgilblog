@@ -40,6 +40,41 @@
   --vp-font-family-mono: 'JetBrains Mono', 'Fira Code', 'Monaco', 'Courier New', monospace;
 }
 
+/* Hero text size adjustment */
+.VPHero .text {
+  font-size: 1.5rem !important;
+  line-height: 1.4 !important;
+  margin-top: 24px !important;
+}
+
+@media (min-width: 640px) {
+  .VPHero .text {
+    font-size: 1.75rem !important;
+    margin-top: 28px !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPHero .text {
+    font-size: 2rem !important;
+    margin-top: 32px !important;
+  }
+}
+
+/* Hero avatar size adjustment */
+.VPHero .image-bg {
+  width: 280px !important;
+  height: 280px !important;
+  filter: grayscale(20%) contrast(0.95);
+}
+
+@media (min-width: 960px) {
+  .VPHero .image-bg {
+    width: 320px !important;
+    height: 320px !important;
+  }
+}
+
 /* ===== Layout Enhancements ===== */
 
 /* Smooth scrolling */

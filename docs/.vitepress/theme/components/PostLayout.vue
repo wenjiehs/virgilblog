@@ -1,9 +1,5 @@
 <template>
   <div class="post-layout">
-    <article class="post-content">
-      <Content />
-    </article>
-    
     <!-- 评论组件 -->
     <Comment v-if="showComment" />
   </div>
