@@ -6,20 +6,22 @@
 
 ### 2026
 
+- [用 AI 分析 2800 条需求：一次不太成熟的实验](/posts/2026/ai-requirements-analysis.md) - 2026-02-10
+- [一个产品经理的 AI 编程实验：重构 TKE Workshop](/posts/2026/tke-workshop-refactor.md) - 2026-01-29
 - [欢迎来到我的博客](/posts/2026/welcome.md) - 2026-01-26
 
 ---
 
 ## 🏷️ 分类
 
-- **前端开发** - Vue, React, TypeScript
-- **后端开发** - Node.js, Go, Python
-- **云原生** - Docker, Kubernetes
+- **AI 与产品** - AI 编程、需求分析、产品实践
+- **云原生** - Kubernetes, TKE, 容器技术
+- **前端开发** - Vue, React, VitePress
 - **工具分享** - 开发工具和效率提升
 
 ## 🔖 标签
 
-`Vue` `React` `TypeScript` `Node.js` `Go` `Docker` `Kubernetes` `VitePress`
+`AI编程` `产品实践` `需求分析` `云原生` `TKE` `Kubernetes` `Vue` `VitePress` `学习笔记` `项目复盘`
 
 ---
 
