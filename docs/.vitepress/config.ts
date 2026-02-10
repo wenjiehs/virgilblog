@@ -28,6 +28,16 @@ export default defineConfig({
           items: [
             { text: 'All Posts', link: '/posts/' }
           ]
+        },
+        {
+          text: '2026',
+          collapsed: false,
+          items: [
+            { text: '用 AI 搭建工作流自动化工具', link: '/posts/2026/openclaw-skills-practice' },
+            { text: '用 AI 分析 2800 条需求', link: '/posts/2026/ai-requirements-analysis' },
+            { text: '重构 TKE Workshop', link: '/posts/2026/tke-workshop-refactor' },
+            { text: '欢迎来到我的博客', link: '/posts/2026/welcome' }
+          ]
         }
       ]
     },
