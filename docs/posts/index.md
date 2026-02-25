@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [用 AI 设计一个手机控制工具：第一天的探索](/posts/2026/codebuddy-mobile-remote.md) - 2026-02-25
 - [用 AI 搭建工作流自动化工具：三个小 Skills 的实践](/posts/2026/openclaw-skills-practice.md) - 2026-02-10
 - [用 AI 分析 2800 条需求：一次不太成熟的实验](/posts/2026/ai-requirements-analysis.md) - 2026-02-10
 - [一个产品经理的 AI 编程实验：重构 TKE Workshop](/posts/2026/tke-workshop-refactor.md) - 2026-01-29
