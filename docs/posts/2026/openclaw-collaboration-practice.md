@@ -145,23 +145,13 @@ goal-driven-tasks/
 - 实际案例验证
 
 **4. Git 操作与 PR 提交**
-```bash
-# 克隆仓库
-git clone https://git.woa.com/tke-evo-stack/skill-collection.git
-
-# 创建功能分支
-git checkout -b feat/goal-driven-tasks
-
-# 提交并推送
-git commit -m "feat: 添加目标驱动自主任务系统 skill"
-git push origin feat/goal-driven-tasks
-
-# 创建 PR
-```
+- 克隆团队 Skill 仓库
+- 创建功能分支
+- 提交并推送代码
+- 创建 Pull Request
 
 **结果**：
-- ✅ PR 已提交（编号 #2）
-- ✅ 提交检查通过
+- ✅ PR 已提交并通过检查
 - ✅ 等待团队审查
 
 ### 为什么这是个突破
