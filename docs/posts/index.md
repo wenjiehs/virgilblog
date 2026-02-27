@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [当"智能溢价"归零，我们还剩下什么？](/posts/2026/intelligence-premium-crisis.md) - 2026-02-27
 - [OpenClaw 协作实践：设计 TKE AI Agent 的一天](/posts/2026/openclaw-collaboration-practice.md) - 2026-02-27
 - [用 AI 设计一个手机控制工具：第一天的探索](/posts/2026/codebuddy-mobile-remote.md) - 2026-02-25
 - [用 AI 搭建工作流自动化工具：三个小 Skills 的实践](/posts/2026/openclaw-skills-practice.md) - 2026-02-10
