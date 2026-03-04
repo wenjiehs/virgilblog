@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [从调研到Demo落地：我在一天内把 OpenClaw + K8s 跑成了项目](/posts/2026/openclaw-k8s-from-research-to-demo.md) - 2026-03-04
 - [OpenClaw + Kubernetes：一个还没人做但值得试试的方向](/posts/2026/openclaw-kubernetes-opportunity.md) - 2026-03-04
 - [我用三个 AI Agent 跑了一次完整的需求开发](/posts/2026/digital-employees-agents-practice.md) - 2026-03-04
 - [当"智能溢价"归零，我们还剩下什么？](/posts/2026/intelligence-premium-crisis.md) - 2026-02-27

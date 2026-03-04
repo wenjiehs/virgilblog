@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: '从调研到Demo落地', link: '/posts/2026/openclaw-k8s-from-research-to-demo' },
             { text: 'OpenClaw + K8s 结合机会', link: '/posts/2026/openclaw-kubernetes-opportunity' },
             { text: '三个 AI Agent 跑完整开发流程', link: '/posts/2026/digital-employees-agents-practice' },
             { text: '当"智能溢价"归零', link: '/posts/2026/intelligence-premium-crisis' },
