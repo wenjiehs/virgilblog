@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: '三个 AI Agent 跑完整开发流程', link: '/posts/2026/digital-employees-agents-practice' },
             { text: '当"智能溢价"归零', link: '/posts/2026/intelligence-premium-crisis' },
             { text: 'OpenClaw 协作实践', link: '/posts/2026/openclaw-collaboration-practice' },
             { text: '用 AI 设计手机控制工具', link: '/posts/2026/codebuddy-mobile-remote' },
