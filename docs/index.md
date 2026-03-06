@@ -17,6 +17,11 @@ hero:
       link: /about
 ---
 
+<div class="insight-quote">
+  <span class="quote-icon">💡</span>
+  <p>「当信息变得唾手可得，行动力和判断力才是真正的稀缺资源」</p>
+</div>
+
 ## Features
 
 <div class="features-wrapper">
@@ -55,6 +60,34 @@ hero:
 <style>
 .VPHome {
   padding-bottom: 48px;
+}
+
+/* 感悟语录样式 */
+.insight-quote {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  max-width: 800px;
+  margin: 0 auto 32px;
+  padding: 16px 32px;
+  background: linear-gradient(135deg, var(--vp-c-brand-soft) 0%, transparent 100%);
+  border-left: 4px solid var(--vp-c-brand-1);
+  border-radius: 8px;
+}
+
+.insight-quote .quote-icon {
+  font-size: 24px;
+  flex-shrink: 0;
+}
+
+.insight-quote p {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--vp-c-text-1);
+  margin: 0;
+  line-height: 1.6;
+  font-style: italic;
 }
 
 /* Features 样式 */
