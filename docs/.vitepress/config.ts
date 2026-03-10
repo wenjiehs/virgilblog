@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: 'TKE 在 AI 时代的可能性', link: '/posts/2026/cli-for-ai-agents-tke-opportunity' },
             { text: '从调研到Demo落地', link: '/posts/2026/openclaw-k8s-from-research-to-demo' },
             { text: 'OpenClaw + K8s 结合机会', link: '/posts/2026/openclaw-kubernetes-opportunity' },
             { text: '三个 AI Agent 跑完整开发流程', link: '/posts/2026/digital-employees-agents-practice' },
