@@ -216,8 +216,6 @@ python {baseDirectory}/tke_cli.py kubeconfig --region ap-guangzhou --cluster-id 
 
 ## 🎯 下一步可以做什么
 
-### 短期（1-2 周）
-
 1. **扩展查询能力**：
    - 工作负载查询（Deployment、StatefulSet）
    - 事件查询（排查问题用）
@@ -227,8 +225,6 @@ python {baseDirectory}/tke_cli.py kubeconfig --region ap-guangzhou --cluster-id 
    - AI 返回结构化表格而不是 JSON
    - 关键信息高亮（状态异常标红等）
 
-### 中期（1-2 月）
-
 3. **集成 kubectl**：
    - 除了云 API，也支持直接执行 kubectl 命令
    - 获取到 kubeconfig 后，自动配置 kubectl 上下文
@@ -236,8 +232,6 @@ python {baseDirectory}/tke_cli.py kubeconfig --region ap-guangzhou --cluster-id 
 4. **告警集成**：
    - 接收 Prometheus AlertManager 的告警
    - 自动分析告警并给出建议
-
-### 长期（探索方向）
 
 5. **写入操作（谨慎）**：
    - Pod 重启
