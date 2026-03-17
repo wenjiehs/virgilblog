@@ -204,6 +204,8 @@ AI 会：
 - 安全审查工作流
 - OpenClaw 配置示例
 
+![AI Skills 交互原型](https://virgil.run/virgilblog/posts/2026/assets/ai-product-planning-tcr-skills-prototype.png)
+
 这些原型可以直接给开发和设计同学看，比纯文字描述清晰很多。
 
 ## 💭 一些感受
