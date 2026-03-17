@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [让 AI 学会我的产品，再帮我写策划稿：一次完整的实验](/posts/2026/ai-product-planning-tcr-skills.md) - 2026-03-17
 - [从想法到落地：用 CodeBuddy Skill 让 AI 直接管理我的 TKE 集群](/posts/2026/tke-skill-ai-copilot-practice.md) - 2026-03-12
 - [读到一篇博客后的思考：TKE 在 AI 时代的可能性](/posts/2026/cli-for-ai-agents-tke-opportunity.md) - 2026-03-10
 - [从调研到Demo落地：我在一天内把 OpenClaw + K8s 跑成了项目](/posts/2026/openclaw-k8s-from-research-to-demo.md) - 2026-03-04
