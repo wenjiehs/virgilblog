@@ -6,12 +6,13 @@
 
 ### 2026
 
+- [从工作站到实战：一次真实的 AI 辅助产品策划全过程](/posts/2026/ai-product-planning-real-practice.md) - 2026-03-17
 - [让 AI 学会我的产品，再帮我写策划稿：一次完整的实验](/posts/2026/ai-product-planning-tcr-skills.md) - 2026-03-17
 - [从想法到落地：用 CodeBuddy Skill 让 AI 直接管理我的 TKE 集群](/posts/2026/tke-skill-ai-copilot-practice.md) - 2026-03-12
 - [用 CodeBuddy 搭建产品策划工作站：一个产品经理的 AI 协作实验](/posts/2026/codebuddy-product-workstation.md) - 2026-03-10
 - [读到一篇博客后的思考：TKE 在 AI 时代的可能性](/posts/2026/cli-for-ai-agents-tke-opportunity.md) - 2026-03-10
 - [从调研到Demo落地：我在一天内把 OpenClaw + K8s 跑成了项目](/posts/2026/openclaw-k8s-from-research-to-demo.md) - 2026-03-04
-- [OpenClaw + Kubernetes：一个还没人做但值得试试的方向](/posts/2026/openclaw-kubernetes-opportunity.md) - 2026-03-04
+- [OpenClaw + Kubernetes：一个值得试试的方向](/posts/2026/openclaw-kubernetes-opportunity.md) - 2026-03-04
 - [我用三个 AI Agent 跑了一次完整的需求开发](/posts/2026/digital-employees-agents-practice.md) - 2026-03-04
 - [当"智能溢价"归零，我们还剩下什么？](/posts/2026/intelligence-premium-crisis.md) - 2026-02-27
 - [OpenClaw 协作实践：设计 TKE AI Agent 的一天](/posts/2026/openclaw-collaboration-practice.md) - 2026-02-27
