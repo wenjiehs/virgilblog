@@ -144,7 +144,7 @@ docs/03-planning/feature-proposals/2026-03-17_TCR-AI-Skills功能.md
 我把整个过程描述给 AI，AI 帮我整理成了第一篇文章：
 - 文章标题：《让 AI 学会我的产品，再帮我写策划稿：一次完整的实验》
 - 内容结构：背景 → 方法 → 过程 → 结果 → 思考
-- 自动遵循我的[博客写作规范](/.codebuddy/rules/blog-writing-guide.mdc)
+- 自动遵循我的博客写作规范（定义在项目 `.codebuddy/rules` 中）
 
 **第二步：发布到博客**
 
