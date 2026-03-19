@@ -6,7 +6,7 @@
 
 ### 2026
 
-- [从工作站到实战：一次真实的 AI 辅助产品策划全过程](/posts/2026/ai-product-planning-real-practice.md) - 2026-03-17
+- [从策划稿到功能上线：AI 产品策划工作站的真实生产过程](/posts/2026/ai-product-planning-tcr-skills-part2.md) - 2026-03-19
 - [让 AI 学会我的产品，再帮我写策划稿：一次完整的实验](/posts/2026/ai-product-planning-tcr-skills.md) - 2026-03-17
 - [从想法到落地：用 CodeBuddy Skill 让 AI 直接管理我的 TKE 集群](/posts/2026/tke-skill-ai-copilot-practice.md) - 2026-03-12
 - [用 CodeBuddy 搭建产品策划工作站：一个产品经理的 AI 协作实验](/posts/2026/codebuddy-product-workstation.md) - 2026-03-10
