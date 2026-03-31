@@ -7,7 +7,7 @@
 ### 2026
 
 - [给 TCR 产品策划工作站做了一次大升级：从 3 个场景扩展到 6 个](/posts/2026/workstation-major-upgrade.md) - 2026-03-31
-- [给 AI 工作站装上「竞品雷达」：一次竞品知识库的建设实验](/posts/2026/competitive-researcher-agent-build.md) - 2026-03-31
+- [给 AI 工作站装上「竞品雷达」：TCR + TKE 双竞品知识库建设实验](/posts/2026/competitive-researcher-agent-build.md) - 2026-03-31
 - [从策划稿到功能上线：AI 产品策划工作站的真实生产过程](/posts/2026/ai-product-planning-tcr-skills-part2.md) - 2026-03-19
 - [让 AI 学会我的产品，再帮我写策划稿：一次完整的实验](/posts/2026/ai-product-planning-tcr-skills.md) - 2026-03-17
 - [从想法到落地：用 CodeBuddy Skill 让 AI 直接管理我的 TKE 集群](/posts/2026/tke-skill-ai-copilot-practice.md) - 2026-03-12
