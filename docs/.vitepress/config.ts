@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: '工作站大升级：3 个场景到 6 个', link: '/posts/2026/workstation-major-upgrade' },
             { text: '给工作站装上竞品雷达', link: '/posts/2026/competitive-researcher-agent-build' },
             { text: 'AI 策划工作站实战', link: '/posts/2026/ai-product-planning-tcr-skills-part2' },
             { text: '让 AI 学产品写策划稿', link: '/posts/2026/ai-product-planning-tcr-skills' },
