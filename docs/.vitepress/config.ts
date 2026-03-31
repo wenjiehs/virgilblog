@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: '给工作站装上竞品雷达', link: '/posts/2026/competitive-researcher-agent-build' },
             { text: 'AI 策划工作站实战', link: '/posts/2026/ai-product-planning-tcr-skills-part2' },
             { text: '让 AI 学产品写策划稿', link: '/posts/2026/ai-product-planning-tcr-skills' },
             { text: '用 Skill 让 AI 管理 TKE', link: '/posts/2026/tke-skill-ai-copilot-practice' },
