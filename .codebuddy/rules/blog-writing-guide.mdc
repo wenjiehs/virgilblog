@@ -2,7 +2,7 @@
 description: 博客文章写作规范和指南，包括文章结构、语气风格、内容组织、发布流程（含侧边栏配置）等最佳实践
 alwaysApply: false
 enabled: true
-updatedAt: 2026-02-10T11:30:00.000Z
+updatedAt: 2026-04-02T18:55:00.000Z
 provider: 
 ---
 
@@ -10,7 +10,7 @@ provider:
 
 ## 📌 核心原则
 
-本博客定位为**个人技术博客**，记录云原生、产品实践、AI 学习的真实经历和思考。
+本博客定位为**个人技术博客**，记录云原生、产品实践、AI 工具应用的真实经历和思考。
 
 **写作理念**：
 - ✅ 真实、接地气，避免过度包装
@@ -28,7 +28,7 @@ docs/posts/
 │   ├── welcome.md              # 欢迎文章
 │   ├── tke-workshop-refactor.md  # 项目实践
 │   ├── ai-requirements-analysis.md  # 需求分析实践
-│   ├── openclaw-skills-practice.md  # 工作流自动化实践
+│   ├── ai-workflow-automation.md  # 工作流自动化实践
 │   └── [新文章].md
 ├── 2027/
 │   └── ...
@@ -418,7 +418,7 @@ GitHub Pages 自动部署后（通常 1-2 分钟），访问：
 - [欢迎文章示例](mdc:docs/posts/2026/welcome.md)
 - [项目实践示例](mdc:docs/posts/2026/tke-workshop-refactor.md)
 - [需求分析实践示例](mdc:docs/posts/2026/ai-requirements-analysis.md)
-- [工作流自动化实践示例](mdc:docs/posts/2026/openclaw-skills-practice.md)
+- [工作流自动化实践示例](mdc:docs/posts/2026/ai-workflow-automation.md)
 - [文章索引页面](mdc:docs/posts/index.md) - **必须更新！**
 - [VitePress 配置文件](mdc:docs/.vitepress/config.ts) - **必须更新侧边栏！**
 - [关于我页面](mdc:docs/about.md)
