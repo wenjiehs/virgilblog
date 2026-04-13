@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [看了 Karpathy 的知识库之后，我对工作站做了三件事](/posts/2026/workstation-karpathy-upgrade.md) - 2026-04-13
 - [工作站的下一步：从 Human-in-the-Loop 到 Human-on-the-Loop](/posts/2026/workstation-human-on-the-loop.md) - 2026-04-02
 - [给两个 AI 产品策划工作站做了一次大升级：从 3 个场景扩展到 6 个](/posts/2026/workstation-major-upgrade.md) - 2026-03-31
 - [给 AI 工作站装上「竞品雷达」：TCR + TKE 双竞品知识库建设实验](/posts/2026/competitive-researcher-agent-build.md) - 2026-03-31

@@ -34,6 +34,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Human-on-the-Loop：工作站的下一步', link: '/posts/2026/workstation-human-on-the-loop' },
+            { text: 'Karpathy 知识库 → 工作站三件事', link: '/posts/2026/workstation-karpathy-upgrade' },
             { text: '工作站大升级：3 个场景到 6 个', link: '/posts/2026/workstation-major-upgrade' },
             { text: '给工作站装上竞品雷达', link: '/posts/2026/competitive-researcher-agent-build' },
             { text: 'AI 策划工作站实战', link: '/posts/2026/ai-product-planning-tcr-skills-part2' },
