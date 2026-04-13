@@ -128,6 +128,7 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#646cff' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'zh-CN' }],
-    ['meta', { name: 'og:site_name', content: 'Virgil Blog' }]
+    ['meta', { name: 'og:site_name', content: 'Virgil Blog' }],
+    ['script', { defer: '', src: 'https://cloud.umami.is/script.js', 'data-website-id': '9b2f9438-ae75-4d24-b19e-c4466654d993' }]
   ]
 })
