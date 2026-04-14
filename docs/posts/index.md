@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [用 AI 做游戏的第二天：从"口头驱动"到"计划驱动"的方法论升级](/posts/2026/green-circle-td-day2-method.md) - 2026-04-14
 - [零游戏开发经验，一个下午用 AI 复刻了魔兽经典塔防"绿色循环圈"](/posts/2026/green-circle-td-web-remake.md) - 2026-04-13
 - [看了 Karpathy 的知识库之后，我对工作站做了三件事](/posts/2026/workstation-karpathy-upgrade.md) - 2026-04-13
 - [工作站的下一步：从 Human-in-the-Loop 到 Human-on-the-Loop](/posts/2026/workstation-human-on-the-loop.md) - 2026-04-02
