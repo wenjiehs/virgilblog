@@ -33,6 +33,8 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: '两天给 Agent Memory 画产品地图', link: '/posts/2026/agent-memory-research-and-design' },
+            { text: '绿色循环圈Day3：从能跑到能维护', link: '/posts/2026/green-circle-td-day3-refactor' },
             { text: '绿色循环圈Day2：方法论升级', link: '/posts/2026/green-circle-td-day2-method' },
             { text: '零经验用AI复刻绿色循环圈', link: '/posts/2026/green-circle-td-web-remake' },
             { text: 'Human-on-the-Loop：工作站的下一步', link: '/posts/2026/workstation-human-on-the-loop' },

@@ -6,6 +6,8 @@
 
 ### 2026
 
+- [两天时间，给 Agent Memory 这块"无人区"画了一张产品地图](/posts/2026/agent-memory-research-and-design.md) - 2026-04-21
+- [用 AI 做游戏的第三天：当项目从"能跑"到"能维护"](/posts/2026/green-circle-td-day3-refactor.md) - 2026-04-14
 - [用 AI 做游戏的第二天：从"口头驱动"到"计划驱动"的方法论升级](/posts/2026/green-circle-td-day2-method.md) - 2026-04-14
 - [零游戏开发经验，一个下午用 AI 复刻了魔兽经典塔防"绿色循环圈"](/posts/2026/green-circle-td-web-remake.md) - 2026-04-13
 - [看了 Karpathy 的知识库之后，我对工作站做了三件事](/posts/2026/workstation-karpathy-upgrade.md) - 2026-04-13
