@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: '知识库会"腐烂"：文档净化机制', link: '/posts/2026/workstation-doc-purification' },
             { text: '两天给 Agent Memory 画产品地图', link: '/posts/2026/agent-memory-research-and-design' },
             { text: '绿色循环圈Day3：从能跑到能维护', link: '/posts/2026/green-circle-td-day3-refactor' },
             { text: '绿色循环圈Day2：方法论升级', link: '/posts/2026/green-circle-td-day2-method' },
