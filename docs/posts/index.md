@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [给产品经理做个"原型 Skill"：让 AI 替代 PPT 做产品汇报](/posts/2026/html-prototype-skill-practice.md) - 2026-04-24
 - [知识库会"腐烂"——我给三个 AI 工作站建了一套文档净化机制](/posts/2026/workstation-doc-purification.md) - 2026-04-22
 - [两天时间，给 Agent Memory 这块"无人区"画了一张产品地图](/posts/2026/agent-memory-research-and-design.md) - 2026-04-21
 - [用 AI 做游戏的第三天：当项目从"能跑"到"能维护"](/posts/2026/green-circle-td-day3-refactor.md) - 2026-04-14
