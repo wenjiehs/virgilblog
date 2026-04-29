@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: 'PPT 工厂：从空文件夹到自动生产线', link: '/posts/2026/ppt-station-build-practice' },
             { text: 'HTML 原型 Skill：AI 替代 PPT 做汇报', link: '/posts/2026/html-prototype-skill-practice' },
             { text: '知识库会"腐烂"：文档净化机制', link: '/posts/2026/workstation-doc-purification' },
             { text: '两天给 Agent Memory 画产品地图', link: '/posts/2026/agent-memory-research-and-design' },
