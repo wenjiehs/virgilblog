@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: 'OpenCLI 浏览器 AI 提效实验', link: '/posts/2026/opencli-browser-ai-productivity' },
             { text: 'AI 时代还会有 PPT 吗？', link: '/posts/2026/ppt-future-in-ai-era' },
             { text: 'PPT 工厂：从空文件夹到自动生产线', link: '/posts/2026/ppt-station-build-practice' },
             { text: 'HTML 原型 Skill：AI 替代 PPT 做汇报', link: '/posts/2026/html-prototype-skill-practice' },
