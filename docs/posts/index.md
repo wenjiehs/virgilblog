@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [从零搭建一个 AI 文档处理流水线：我在 Multica 上的两天实践](/posts/2026/multica-workspace-agent-practice.md) - 2026-05-13
 - [给浏览器装上 CLI：我用 OpenCLI 做了一次产品经理日常提效实验](/posts/2026/opencli-browser-ai-productivity.md) - 2026-05-12
 - [AI 时代还会有 PPT 吗？—— 一个做了几十份 PPT 的产品经理的思考](/posts/2026/ppt-future-in-ai-era.md) - 2026-05-06
 - [给 AI 搭了一个 PPT 工厂：从"空文件夹"到"自动生产线"的一下午](/posts/2026/ppt-station-build-practice.md) - 2026-04-28
