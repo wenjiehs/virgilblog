@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: '竞品采集→自动研发：Agent 流水线', link: '/posts/2026/competitive-to-dev-agent-pipeline' },
             { text: 'Multica 文档自动化流水线实践', link: '/posts/2026/multica-workspace-agent-practice' },
             { text: 'OpenCLI 浏览器 AI 提效实验', link: '/posts/2026/opencli-browser-ai-productivity' },
             { text: 'AI 时代还会有 PPT 吗？', link: '/posts/2026/ppt-future-in-ai-era' },

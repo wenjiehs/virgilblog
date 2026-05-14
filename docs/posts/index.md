@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [竞品采集 → 自动研发：我用 Agent 流水线打通了从"发现"到"落地"](/posts/2026/competitive-to-dev-agent-pipeline.md) - 2026-05-14
 - [从零搭建一个 AI 文档处理流水线：我在 Multica 上的两天实践](/posts/2026/multica-workspace-agent-practice.md) - 2026-05-13
 - [给浏览器装上 CLI：我用 OpenCLI 做了一次产品经理日常提效实验](/posts/2026/opencli-browser-ai-productivity.md) - 2026-05-12
 - [AI 时代还会有 PPT 吗？—— 一个做了几十份 PPT 的产品经理的思考](/posts/2026/ppt-future-in-ai-era.md) - 2026-05-06
