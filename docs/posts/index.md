@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [把 Changelog 变成文档守门人：我用 Multica 串起产品发布和官网文档](/posts/2026/changelog-multica-doc-guardrail.md) - 2026-05-15
 - [竞品采集 → 自动研发：我用 Agent 流水线打通了从"发现"到"落地"](/posts/2026/competitive-to-dev-agent-pipeline.md) - 2026-05-14
 - [从零搭建一个 AI 文档处理流水线：我在 Multica 上的两天实践](/posts/2026/multica-workspace-agent-practice.md) - 2026-05-13
 - [给浏览器装上 CLI：我用 OpenCLI 做了一次产品经理日常提效实验](/posts/2026/opencli-browser-ai-productivity.md) - 2026-05-12
