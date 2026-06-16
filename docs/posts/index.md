@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [把 Workshop 从文档站改成 Agent-First 工作坊：一次 Codex 协作复盘](/posts/2026/tke-workshop-astro-agent-factory-practice.md) - 2026-06-16
 - [用 CLI 重写产品文档：让 AI 时代的文档也能被「编译」](/posts/2026/agent-native-cli-and-docs-as-code.md) - 2026-05-19
 - [把 Changelog 变成文档守门人：我用 Multica 串起产品发布和官网文档](/posts/2026/changelog-multica-doc-guardrail.md) - 2026-05-15
 - [竞品采集 → 自动研发：我用 Agent 流水线打通了从"发现"到"落地"](/posts/2026/competitive-to-dev-agent-pipeline.md) - 2026-05-14
