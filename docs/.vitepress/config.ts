@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: 'TKE Agent 网络：CNI + ZeroProxy Demo', link: '/posts/2026/tke-agent-network-cni-zeroproxy' },
             { text: '个人规划 OS：把习惯做成 Codex 插件', link: '/posts/2026/codex-personal-planning-os' },
             { text: 'Workshop Agent-First 重构：Codex 协作复盘', link: '/posts/2026/tke-workshop-astro-agent-factory-practice' },
             { text: '用 CLI 重写产品文档：让文档可编译', link: '/posts/2026/agent-native-cli-and-docs-as-code' },
