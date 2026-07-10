@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [给 Codex 接上长期记忆：一次 Obsidian + 插件的实践](/posts/2026/codex-obsidian-memory-plugin.md) - 2026-07-10
 - [给 Agent 做一张不自由的网：TKE CNI + ZeroProxy Demo 复盘](/posts/2026/tke-agent-network-cni-zeroproxy.md) - 2026-07-09
 - [给 Codex 装上个人规划 OS：一次把习惯做成插件的实践](/posts/2026/codex-personal-planning-os.md) - 2026-06-27
 - [把 Workshop 从文档站改成 Agent-First 工作坊：一次 Codex 协作复盘](/posts/2026/tke-workshop-astro-agent-factory-practice.md) - 2026-06-16
