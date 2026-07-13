@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [产品经理不能只写方案：我借助 Codex，把一套 Agent Runtime Demo 真正跑了起来](/posts/2026/product-manager-to-builder-with-codex.md) - 2026-07-13
 - [给 Codex 接上长期记忆：一次 Obsidian + 插件的实践](/posts/2026/codex-obsidian-memory-plugin.md) - 2026-07-10
 - [给 Agent 做一张不自由的网：TKE CNI + ZeroProxy Demo 复盘](/posts/2026/tke-agent-network-cni-zeroproxy.md) - 2026-07-09
 - [给 Codex 装上个人规划 OS：一次把习惯做成插件的实践](/posts/2026/codex-personal-planning-os.md) - 2026-06-27
