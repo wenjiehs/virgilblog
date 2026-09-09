@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [这周，我开始把一整件工作交给 Codex](/posts/2026/codex-took-over-my-work-week.md) - 2026-09-09
 - [第一次用 AI 做小说短剧：我发现关键不是提示词，而是工作流](/posts/2026/ai-video-short-drama-first-practice.md) - 2026-07-13
 - [产品经理不能只写方案：我借助 Codex，把一套 Agent Runtime Demo 真正跑了起来](/posts/2026/product-manager-to-builder-with-codex.md) - 2026-07-13
 - [给 Codex 接上长期记忆：一次 Obsidian + 插件的实践](/posts/2026/codex-obsidian-memory-plugin.md) - 2026-07-10
