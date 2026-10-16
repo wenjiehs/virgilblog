@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [用 Sites 做产品设计：把讨论过的方案，变成可以点开的原型](/posts/2026/sites-product-design-workbench.md) - 2026-10-16
 - [用 Computer History 找回工作上下文：我和 Codex 的一次协作尝试](/posts/2026/computer-history-work-assistant.md) - 2026-10-16
 - [这周，我开始把一整件工作交给 Codex](/posts/2026/codex-took-over-my-work-week.md) - 2026-09-09
 - [第一次用 AI 做小说短剧：我发现关键不是提示词，而是工作流](/posts/2026/ai-video-short-drama-first-practice.md) - 2026-07-13
