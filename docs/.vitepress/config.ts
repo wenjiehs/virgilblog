@@ -33,6 +33,7 @@ export default defineConfig({
           text: '2026',
           collapsed: false,
           items: [
+            { text: 'Computer History 摘要归档到 Obsidian', link: '/posts/2026/computer-history-obsidian-archive' },
             { text: 'Sites：把产品方案做成可交互原型', link: '/posts/2026/sites-product-design-workbench' },
             { text: 'Computer History：找回工作上下文', link: '/posts/2026/computer-history-work-assistant' },
             { text: '这周，我开始把一整件工作交给 Codex', link: '/posts/2026/codex-took-over-my-work-week' },

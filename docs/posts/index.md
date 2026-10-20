@@ -6,6 +6,7 @@
 
 ### 2026
 
+- [把 Computer History 的活动摘要留在 Obsidian：一次工作记忆归档实践](/posts/2026/computer-history-obsidian-archive.md) - 2026-10-20
 - [用 Sites 做产品设计：把讨论过的方案，变成可以点开的原型](/posts/2026/sites-product-design-workbench.md) - 2026-10-16
 - [用 Computer History 找回工作上下文：我和 Codex 的一次协作尝试](/posts/2026/computer-history-work-assistant.md) - 2026-10-16
 - [这周，我开始把一整件工作交给 Codex](/posts/2026/codex-took-over-my-work-week.md) - 2026-09-09
